@@ -4,14 +4,14 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:            K3K's Hideout
 tagline:          'I just want to be a cat'
 description:      "A random cat's attempt at learning computer programming."
-url:              
-baseurl:          https://gamer2810.github.io/portfolio/
+url:              https://gamer2810.github.io/
+baseurl:          /
 
 author:
   name:           'Kha Tran'
